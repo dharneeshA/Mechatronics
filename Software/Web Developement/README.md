@@ -30,3 +30,6 @@ It allows customers to:
 Deployed using Firebase.
 
 <img width="1860" height="929" alt="image" src="https://github.com/user-attachments/assets/d5dd2ea8-4cb9-4ab1-99c9-e0773a3c7b2d" />
+
+<img width="1829" height="970" alt="image" src="https://github.com/user-attachments/assets/a146121d-231e-4883-ae1d-1434815466c7" />
+
